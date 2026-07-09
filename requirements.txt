@@ -1,0 +1,8 @@
+python-telegram-bot
+beautifulsoup4
+selenium
+requests
+g4f
+dateparser
+lxml
+python-dotenv
